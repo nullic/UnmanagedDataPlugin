@@ -28,7 +28,7 @@ let package = Package(
                 dependencies: ["umd"]),
         
         .binaryTarget(name: "umd",
-                      url: "https://github.com/nullic/UnmanagedData/releases/download/pre_2.0.0/umd.artifactbundle.zip",
-                      checksum: "d9161f4ed245fed158d8ef58bb469fae0d8f0078f82cb95fb312f6f7f76b131c")
+                      url: "https://github.com/nullic/UnmanagedData/releases/download/pre_2.0.1/umd.artifactbundle.zip",
+                      checksum: "c9061e86dffb7e5c6fae2526f76c2e36fc0cd45fed2d180e749c3e6f0c2b1d59")
     ]
 )
